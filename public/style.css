@@ -1,0 +1,29 @@
+.left{
+	padding-left: 40px;
+}
+.navbar-right{
+	padding-right: 40px;
+}
+.app{
+	background: lightblue;
+	height: 250px;
+}
+.votingtext{
+	font-size: 50px;
+}
+.desc{
+	font-size: 30px;
+}
+.something{
+	height: 400px;
+	--background: green;
+}
+.smth{
+	font-size: 100px;
+}
+.me{
+	height: 100px;
+}
+.met{
+	font-size: 20px;
+}
